@@ -1,0 +1,33 @@
+Module ID,URL Link,LMS Location,Risk Score,Risk Category,Local URL,Scraped ID,Scraped At
+1,https://www.ft.com/content/2379dfdb-b62b-47de-98d5-dc49be50e661,http://10.51.33.25/moodle/mod/url/view.php?id=25,-1.0,PAYWALL,,600,2025-07-31T17:17:25.549410
+1,https://www.wsj.com/finance/banking/goldman-sachs-greece-hotel-sell-34b5353a?mod=real-estate_lead_story,http://10.51.33.25/moodle/mod/url/view.php?id=26,-1.0,PAYWALL,,601,2025-07-31T17:17:26.167749
+1,https://www.xvideos.com,http://10.51.33.25/moodle/mod/url/view.php?id=18,-85.0,NSFW_Pornographic domain detected: xvideos.com,,598,2025-07-31T17:17:11.536024
+1,https://coinlab.biz/,http://10.51.33.25/moodle/course/view.php?id=2,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",,595,2025-07-31T17:16:41.398918
+1,https://coinlab.biz/,http://10.51.33.25/moodle/course/section.php?id=5,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",,597,2025-07-31T17:17:09.094113
+1,http://www.sfia-online.org/,Document Scan,-1.0,SITE UNREACHABLE,,609,2025-07-31T17:18:31.706923
+1,https://student.unsw.edu.au/groupwork/,Document Scan,-1.0,EDUCATION DOMAIN,,611,2025-07-31T17:18:33.071343
+1,https://www.gnu.org/software/pspp/,Document Scan,-1.0,SITE UNREACHABLE,,612,2025-07-31T17:18:33.982349
+1,https://emedia.rmit.edu.au/learninglab/content/writing-literature-review/,Document Scan,-1.0,EDUCATION DOMAIN,,614,2025-07-31T17:18:35.093957
+1,http://en.wikipedia.org/wiki/Stakeholder_management/,Document Scan,-1.0,SITE UNREACHABLE,,622,2025-07-31T17:18:43.358583
+1,https://www.dlsweb.rmit.edu.au/lsu/content/2_assessmenttasks/assess_pdf/PG%20lit%20review.pdf,Document Scan,-1.0,EDUCATION DOMAIN,,613,2025-07-31T17:18:34.323162
+1,https://docs.python.org/3/,http://10.51.33.25/moodle/mod/forum/discuss.php?d=1,0.0,"business, information technology, information technology",localrepo/module_1/20250731_1721/603,603,2025-07-31T17:17:46.688351
+1,https://rl.talis.com/3/murdoch/lists/62562748-16DF-53E1-D32E-81C662867B97.html?lang=en-GB,http://10.51.33.25/moodle/mod/url/view.php?id=11,0.0,"education, general business, information technology",localrepo/module_1/20250731_1721/596,596,2025-07-31T17:17:03.364450
+1,https://www.nea.gov.sg/docs/default-source/dpc/floatsam-2024.pdf,http://10.51.33.25/moodle/mod/url/view.php?id=20,0.0,"government, government, government",localrepo/module_1/20250731_1721/599,599,2025-07-31T17:17:22.689110
+1,https://saturncloud.io/blog/how-to-read-data-from-google-sheets-using-colaboratory-google/,http://10.51.33.25/moodle/mod/forum/discuss.php?d=1,0.0,"computersandsoftware, online storage, information technology, information technology",localrepo/module_1/20250731_1721/602,602,2025-07-31T17:17:46.387618
+1,https://kathyschwalbe.files.wordpress.com/2021/08/schwalbe-intro-pm-7e-sample-chapter-1.pdf,Document Scan,0.0,"hosting, blogs & wikis, blogs and forums, blogs and personal sites",localrepo/module_1/20250731_1721/610,610,2025-07-31T17:18:32.319091
+1,https://www.youtube.com/,Document Scan,0.0,"Mixed Content/Potentially Adult, Video/Multimedia (alphaMountain.ai), videos, media sharing, adult content/violence, video hosting, social web - youtube",localrepo/module_1/20250731_1721/615,615,2025-07-31T17:18:35.902620
+1,https://jsfiddle.net/,Document Scan,0.0,"Information Technology (alphaMountain.ai), computersandsoftware, information technology, information technology",localrepo/module_1/20250731_1722/616,616,2025-07-31T17:18:36.306262
+1,https://saturncloud.io/blog/how-to-read-data-from-google-sheets-using-colaboratory-google/,http://10.51.33.25/moodle/mod/forum/discuss.php?sesskey=taxXUGS2R9&d=1&pin=0,0.0,"computersandsoftware, online storage, information technology, information technology",localrepo/module_1/20250731_1721/602,607,2025-07-31T17:17:59.241386
+1,http://www.mindtools.com/pages/article/newPPM_07.htm,Document Scan,0.0,"education, computing & technology, reference, educational materials",localrepo/module_1/20250731_1722/621,621,2025-07-31T17:18:42.472826
+1,https://lingojam.com/FancyTextGenerator/,Document Scan,0.0,"misc, translators, mobile communications, reference materials",localrepo/module_1/20250731_1722/623,623,2025-07-31T17:18:44.534980
+1,https://fastapi.tiangolo.com/,Document Scan,0.0,"Information Technology (alphaMountain.ai), computersandsoftware, software-hardware, information technology, information technology",localrepo/module_1/20250731_1721/618,618,2025-07-31T17:18:40.904639
+1,https://best-putlocker.pw/free-tv-show/the-big-bang-theory-season-12/8wjS20So/6bae2vl2/,Document Scan,0.0,CLEAN,localrepo/module_1/20250731_1722/617,617,2025-07-31T17:18:39.983688
+1,https://kathyschwalbe.files.wordpress.com/2018/08/project2016guide.pdf,Document Scan,0.0,"hosting, blogs and forums, blogs & wikis, blogs and personal sites",localrepo/module_1/20250731_1721/619,619,2025-07-31T17:18:41.226247
+1,http://www.gantt.com/index.htm,Document Scan,0.0,"education, business and economy",localrepo/module_1/20250731_1721/620,620,2025-07-31T17:18:41.491647
+1,https://docs.python.org/3/,http://10.51.33.25/moodle/mod/forum/discuss.php?d=1&parent=2,0.0,"business, information technology, information technology",localrepo/module_1/20250731_1721/603,604,2025-07-31T17:17:47.740938
+1,https://docs.python.org/3/,http://10.51.33.25/moodle/mod/forum/discuss.php?sesskey=taxXUGS2R9&d=1&pin=1,0.0,"business, information technology, information technology",localrepo/module_1/20250731_1721/603,606,2025-07-31T17:17:48.897872
+1,https://docs.python.org/3/,http://10.51.33.25/moodle/mod/forum/discuss.php?sesskey=taxXUGS2R9&d=1&pin=0,0.0,"business, information technology, information technology",localrepo/module_1/20250731_1721/603,608,2025-07-31T17:17:59.272115
+1,https://saturncloud.io/blog/how-to-read-data-from-google-sheets-using-colaboratory-google/,http://10.51.33.25/moodle/mod/forum/discuss.php?sesskey=taxXUGS2R9&d=1&pin=1,0.0,"computersandsoftware, online storage, information technology, information technology",localrepo/module_1/20250731_1721/602,605,2025-07-31T17:17:48.868856
+2,https://www.pornhub.com,http://10.51.33.25/moodle/mod/url/view.php?id=17,-85.0,NSFW_Pornographic domain detected: pornhub.com,,624,2025-07-31T17:19:00.380939
+2,https://www.coinlab.biz,http://10.51.33.25/moodle/mod/url/view.php?id=27,-6.0,"trackers, Phishing and Other Frauds, web applications",,625,2025-07-31T17:19:04.665921
+3,https://murdoch.rl.talis.com/items/7CCB9A49-C85D-01F7-8FBA-262DB8F0CB1E.html,Document Scan,0.0,"education, technical information, general business, information technology",localrepo/module_3/20250731_1723/626,626,2025-07-31T17:20:10.564692

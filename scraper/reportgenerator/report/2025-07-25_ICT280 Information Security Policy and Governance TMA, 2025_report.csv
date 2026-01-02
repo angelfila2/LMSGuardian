@@ -1,0 +1,9 @@
+LMS Information Security Asssessment Tool Report for Unit Coordinators
+
+Unit Coordinator,GwanYoung Park
+Module code,"ICT280 Information Security Policy and Governance TMA, 2025"
+Course Page URL,http://10.51.33.25/moodle/course/view.php?id=3
+
+Link URL,Link Location,Risk Score,Risk Category,Detected on,Action to be taken
+https://www.pornhub.com,Unknown,-85.0,NSFW_Pornographic domain detected: pornhub.com,2025-07-25T23:28:18.377224,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+https://www.coinlab.biz,Unknown,-6.0,"trackers, Phishing and Other Frauds, web applications",2025-07-25T23:28:21.147805,This link has a high risk score and is likely to be malicious. Please remove it immediately.

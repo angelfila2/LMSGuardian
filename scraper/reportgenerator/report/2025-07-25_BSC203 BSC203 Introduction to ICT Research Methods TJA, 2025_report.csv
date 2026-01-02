@@ -1,0 +1,20 @@
+LMS Information Security Asssessment Tool Report for Unit Coordinators
+
+Unit Coordinator,Chau Ng
+Module code,"BSC203 BSC203 Introduction to ICT Research Methods TJA, 2025"
+Course Page URL,http://10.51.33.25/moodle/course/view.php?id=2
+
+Link URL,Link Location,Risk Score,Risk Category,Detected on,Action to be taken
+https://www.ft.com/content/2379dfdb-b62b-47de-98d5-dc49be50e661,http://10.51.33.25/moodle/mod/url/view.php?id=25,-1.0,Paywalled Content,2025-07-25T01:11:18.555121,This is a paywalled content. Please remove it unless access is verified and permitted.
+https://www.wsj.com/finance/banking/goldman-sachs-greece-hotel-sell-34b5353a?mod=real-estate_lead_story,http://10.51.33.25/moodle/mod/url/view.php?id=26,-1.0,Paywalled Content,2025-07-25T01:11:19.289810,This is a paywalled content. Please remove it unless access is verified and permitted.
+https://www.xvideos.com,http://10.51.33.25/moodle/mod/url/view.php?id=18,-85.0,NSFW_Pornographic domain detected: xvideos.com,2025-07-25T01:11:03.410762,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+https://coinlab.biz/,http://10.51.33.25/moodle/course/section.php?id=5,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",2025-07-25T01:11:01.483280,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+https://coinlab.biz/,http://10.51.33.25/moodle/course/view.php?id=2,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",2025-07-25T01:10:32.799946,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+https://coinlab.biz/,http://10.51.33.25/moodle/course/view.php?id=2,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",2025-07-25T01:11:01.470222,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+http://www.sfia-online.org/,Document scan,-1.0,SITE UNREACHABLE,2025-07-25T01:12:34.649020,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.
+https://student.unsw.edu.au/groupwork/,Document scan,-1.0,EDUCATION DOMAIN,2025-07-25T01:12:35.696855,This is content hosted on an educational institution's domain. Please ensure content is used only if an agreement exists with the institution.
+https://www.gnu.org/software/pspp/,Document scan,-1.0,SITE UNREACHABLE,2025-07-25T01:12:36.629179,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.
+https://www.dlsweb.rmit.edu.au/lsu/content/2_assessmenttasks/assess_pdf/PG%20lit%20review.pdf,Document scan,-1.0,EDUCATION DOMAIN,2025-07-25T01:12:37.133581,This is content hosted on an educational institution's domain. Please ensure content is used only if an agreement exists with the institution.
+https://emedia.rmit.edu.au/learninglab/content/writing-literature-review/,Document scan,-1.0,EDUCATION DOMAIN,2025-07-25T01:12:37.746611,This is content hosted on an educational institution's domain. Please ensure content is used only if an agreement exists with the institution.
+https://jsfiddle.net/,Document scan,-1.0,SITE UNREACHABLE,2025-07-25T01:12:43.606227,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.
+http://en.wikipedia.org/wiki/Stakeholder_management/,Document scan,-1.0,SITE UNREACHABLE,2025-07-25T01:12:48.785636,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.

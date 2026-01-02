@@ -1,0 +1,17 @@
+LMS Information Security Asssessment Tool Report for Unit Coordinators
+
+Unit Coordinator,Chau Ng
+Module code,"BSC203 Introduction to ICT Research Methods TJA, 2025"
+Course Page URL,http://10.51.33.25/moodle/course/view.php?id=2
+
+Link URL,Link Location,Risk Score,Risk Category,Detected on,Action to be taken
+https://www.ft.com/content/2379dfdb-b62b-47de-98d5-dc49be50e661,http://10.51.33.25/moodle/mod/url/view.php?id=25,-1.0,Paywalled Content,2025-08-01T17:55:38.935842,This is a paywalled content. Please remove it unless access is verified and permitted.
+https://www.wsj.com/finance/banking/goldman-sachs-greece-hotel-sell-34b5353a?mod=real-estate_lead_story,http://10.51.33.25/moodle/mod/url/view.php?id=26,-1.0,Paywalled Content,2025-08-01T17:55:39.622446,This is a paywalled content. Please remove it unless access is verified and permitted.
+https://coinlab.biz/,http://10.51.33.25/moodle/course/view.php?id=2,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",2025-08-01T17:54:55.453236,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+https://coinlab.biz/,http://10.51.33.25/moodle/course/section.php?id=5,-10.0,"Malicious (alphaMountain.ai), trackers, spyware and malware, Phishing and Other Frauds",2025-08-01T17:55:21.966657,This link has a high risk score and is likely to be malicious. Please remove it immediately.
+http://www.sfia-online.org/,Document Scan,-1.0,SITE UNREACHABLE,2025-08-01T17:56:48.090084,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.
+https://student.unsw.edu.au/groupwork/,Document Scan,-1.0,EDUCATION DOMAIN,2025-08-01T17:56:49.343758,This is content hosted on an educational institution's domain. Please ensure content is used only if an agreement exists with the institution.
+https://www.gnu.org/software/pspp/,Document Scan,-1.0,SITE UNREACHABLE,2025-08-01T17:56:50.254484,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.
+https://www.dlsweb.rmit.edu.au/lsu/content/2_assessmenttasks/assess_pdf/PG%20lit%20review.pdf,Document Scan,-1.0,EDUCATION DOMAIN,2025-08-01T17:56:50.435102,This is content hosted on an educational institution's domain. Please ensure content is used only if an agreement exists with the institution.
+https://emedia.rmit.edu.au/learninglab/content/writing-literature-review/,Document Scan,-1.0,EDUCATION DOMAIN,2025-08-01T17:56:51.065139,This is content hosted on an educational institution's domain. Please ensure content is used only if an agreement exists with the institution.
+http://en.wikipedia.org/wiki/Stakeholder_management/,Document Scan,-1.0,SITE UNREACHABLE,2025-08-01T17:56:57.329692,This is an unreachable domain or broken link. Please rectify it immediately to maintain content availability.

@@ -1,0 +1,152 @@
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Local repository files
+localrepo/
+
+# Generated reports
+scraper/reportgenerator/report/*.docx
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Test files
+test_*.py
+*test*.py
+analyze_*.py
+fix_*.py
+cleanup_*.py
+demonstrate_*.py
+safe_*.py
+remove_*.py
+
+# Documentation files (temporary)
+*_ANALYSIS.md
+*_SUMMARY.md
+*_EXPLANATION.md
+*_GUIDE.md
+MURDOCH_*.md
+JIGSAWSTACK_*.md
+ENHANCED_*.md
+FINAL_*.md
+IMPROVEMENTS_*.md
+IMPROVEMENT_*.md
+REPORT_*.md
+API_*.md
+MOODLE_*.md
+test/
+tests/
+
+# Markdown files
+*.md
+
+# Local repository content (keep folder structure but ignore content)
+localrepo/*/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Report files
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# SQL files (optional - remove if you need them)
+*.sql
+
+# Processing folders
+toProcessFurther/

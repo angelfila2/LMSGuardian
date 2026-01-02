@@ -1,0 +1,8 @@
+LMS Information Security Asssessment Tool Report for Unit Coordinators
+
+Unit Coordinator,GwanYoung Park
+Module code,"ICT280 Information Security Policy and Governance TMA, 2025"
+Course Page URL,http://10.51.33.25/moodle/course/view.php?id=3
+
+Link URL,Link Location,Risk Score,Risk Category,Detected on,Action to be taken
+https://www.coinlab.biz,http://10.51.33.25/moodle/mod/url/view.php?id=27,-6.0,"trackers, Phishing and Other Frauds, web applications",2025-08-02T00:08:10.262975,This link has a high risk score and is likely to be malicious. Please remove it immediately.
