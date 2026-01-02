@@ -52,29 +52,6 @@ LMS Guardian v2.0 is an advanced security scanner designed to protect educationa
 - **URL Validation**: Advanced URL cleaning and malformed link handling
 - **Background Processing**: Efficient handling of large-scale scanning operations
 
-## 🏗️ System Architecture
-
-### **Core Components**
-
-```
-LMS Guardian v2.0
-├── app/                          # FastAPI Application
-│   ├── main.py                   # Application entry point
-│   ├── crud/                     # Database operations
-│   ├── models/                   # SQLAlchemy models
-│   ├── routes/                   # API endpoints
-│   └── schemas/                  # Pydantic schemas
-├── scraper/                      # Content Analysis Engine
-│   ├── reputation/               # Multi-API security analysis
-│   │   └── checker.py           # Core security checking logic
-│   ├── reportgenerator/          # Report generation system
-│   │   └── report.py            # Word document generation
-│   └── scraper/                  # Web scraping utilities
-├── content_filter.py             # JigsawStack AI integration
-├── scripts/                      # Utility scripts
-└── localrepo/                    # Local content storage
-```
-
 ### **Database Schema**
 - **Modules**: Course module information and metadata
 - **Scraped Content**: URL analysis results with risk scores and classifications
