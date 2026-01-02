@@ -1,5 +1,12 @@
 # 🛡️ LMS Guardian v2.0 - Enhanced Learning Management System Security Scanner
 
+## Contributions to the Project
+
+This was a team-based undergraduate final-year project in which I served as the **lead software developer** and **primary contributor**.
+
+My responsibilities included designing and implementing the core system architecture, developing the backend services, integrating multiple security APIs, and ensuring the reliability and scalability of the application. I was also responsible for enforcing key business rules, handling data persistence, and driving the overall technical direction of the project.
+
+
 **A comprehensive, AI-powered security and content filtering system for Learning Management Systems (LMS) that analyzes external links, detects inappropriate content, and generates detailed security reports with multi-API threat intelligence.**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
