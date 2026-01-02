@@ -12,8 +12,6 @@ My responsibilities included designing and implementing the core system architec
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-Multi--API-red.svg)](https://github.com/rayngnpc/LMSGuardianG2)
-
 ## 🚀 Overview
 
 LMS Guardian v2.0 is an advanced security scanner designed to protect educational institutions from malicious content, inappropriate material, and security threats embedded in external links within Learning Management Systems. The system combines multiple security APIs with AI-powered content analysis to provide comprehensive threat detection and reporting.
@@ -94,8 +92,8 @@ LMS Guardian v2.0
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/rayngnpc/LMSGuardianG2.git
-   cd LMSGuardianG2
+   git clone https://github.com/angelfila2/LMSGuardian.git
+   cd LMSGuardian
    ```
 
 2. **Install Dependencies**
@@ -423,10 +421,6 @@ python scripts/update_module_mapping.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contributors
-
-- **[@rayngnpc](https://github.com/rayngnpc)** - Project Maintainer
-- **LMS Guardian Team** - Core Development
 
 ## 🙏 Acknowledgments
 
@@ -437,12 +431,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MetaDefender** - Additional security layers
 - **Educational Institutions** - Trusted domain database contributors
 
-## 📞 Support
-
-For support and questions:
-- **Issues**: [GitHub Issues](https://github.com/rayngnpc/LMSGuardianG2/issues)
-- **Documentation**: [Project Wiki](https://github.com/rayngnpc/LMSGuardianG2/wiki)
-- **Security**: Report security issues privately
 
 ## 🚨 Security Notice
 
@@ -456,4 +444,4 @@ This system processes URLs and content from external sources. Please ensure:
 
 **⚠️ Important**: This system requires API keys from various security providers. Ensure proper authorization and respect API rate limits. The system is designed for educational use and should be configured according to your institution's security policies.
 
-**🎯 Version**: 2.0.0 | **Last Updated**: July 17, 2025
+** Version**: 3.0.0 | **Last Updated**: August 7, 2025
